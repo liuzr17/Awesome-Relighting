@@ -11,7 +11,7 @@ Collection of relighting works. Questions and discussions are most welcome! Upco
 ## Datasets
 ### VIDIT dataset
 训练：300个游戏引擎场景每个场景40种光照(5种色温、8种方向)   
-测试&验证：90个场景  
+测试&验证：45个场景  
 ### Multi-Illumination dataset
 训练：985个室内场景每个场景25种光照  
 测试&验证：30个场景  
