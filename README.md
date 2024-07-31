@@ -4,9 +4,8 @@ Collection of relighting works. Questions and discussions are most welcome! Upco
 
 ## Publications
 
-### 2D images
-
-### 3D neural radiance fields
+## survey
+Deep Neural Models for Illumination Estimation and Relighting: A Survey 
 
 ## Datasets
 ### VIDIT dataset
