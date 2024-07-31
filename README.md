@@ -4,7 +4,7 @@ Collection of relighting works. Questions and discussions are most welcome! Upco
 
 ## Publications
 
-## survey
+## Survey
 Deep Neural Models for Illumination Estimation and Relighting: A Survey 
 
 ## Datasets
