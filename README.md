@@ -7,6 +7,12 @@ Collection of relighting works. Questions and discussions are most welcome! Upco
 ## Survey
 Deep Neural Models for Illumination Estimation and Relighting: A Survey 
 
+## Papers
+
+### 
+
+###
+
 ## Datasets
 ### VIDIT dataset
 训练：300个游戏引擎场景每个场景40种光照(5种色温、8种方向)   
