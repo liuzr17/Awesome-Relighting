@@ -26,10 +26,10 @@ Deep Neural Models for Illumination Estimation and Relighting: A Survey
 ## Metrics
 
 ## Software Products
-SwitchLight: https://www.switchlight.beeble.ai/  
-IC-Light: https://github.com/lllyasviel/IC-Light
-Adobe ProjectPerfectBlend: https://x.com/Pinsky/status/1846351993478037857
-Magnific Relight: https://x.com/javilopen/status/1805274155065176489
+SwitchLight: https://www.switchlight.beeble.ai/   
+IC-Light: https://github.com/lllyasviel/IC-Light   
+Adobe ProjectPerfectBlend: https://x.com/Pinsky/status/1846351993478037857   
+Magnific Relight: https://x.com/javilopen/status/1805274155065176489   
 
 ## Miscellaneous
 
