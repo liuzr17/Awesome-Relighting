@@ -36,8 +36,8 @@ Magnific Relight: https://x.com/javilopen/status/1805274155065176489
 
 ## Miscellaneous
 
-### Star History
+[^_^]: # ### Star History
 
-## Star History
+[^_^]: # ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=liuzr17/Awesome-Relighting&type=Date)](https://star-history.com/#liuzr17/Awesome-Relighting&Date)
+[^_^]: # [![Star History Chart](https://api.star-history.com/svg?repos=liuzr17/Awesome-Relighting&type=Date)](https://star-history.com/#liuzr17/Awesome-Relighting&Date)
