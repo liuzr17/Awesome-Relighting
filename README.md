@@ -9,9 +9,12 @@ Deep Neural Models for Illumination Estimation and Relighting: A Survey
 
 ## Papers
 
-### 
+### 人像relighting
+Deep Single-Image Portrait Relighting [ICCV 2019] ![Star](https://img.shields.io/github/stars/zhhoper/DPR.svg?style=social&label=Stars)[https://github.com/zhhoper/DPR]
 
-###
+### 物体relighting
+
+### 场景relighting
 
 ## Datasets
 ### VIDIT dataset
@@ -38,5 +41,3 @@ Magnific Relight: https://x.com/javilopen/status/1805274155065176489
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=liuzr17/Awesome-Relighting&type=Date)](https://star-history.com/#liuzr17/Awesome-Relighting&Date)
-
-### Friendship Links
